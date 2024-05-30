@@ -49,3 +49,36 @@ h1 {
     transform:scale(0.9)
 
 }
+.box6 {
+    padding-top: 100px;
+    text-align: center;
+    transition:1s;
+}
+.box6:hover {
+    transform: scale(0.9);
+}
+.box7 {
+    padding-top: 100px;
+    text-align: center;
+    transition: 1s;
+}
+.box7:hover {
+    transform: scale(0.9);
+}
+.box8 {
+    padding-top: 100px;
+    text-align: center;
+    gap:30px;
+    transition: 1s;
+}
+.box8:hover {
+    transform: scale(0.9);
+}
+.box9 {
+    padding-top: 100px;
+    transition: 1s;
+    text-align: center;
+}
+.box9:hover {
+    transform: scale(0.9);
+}
