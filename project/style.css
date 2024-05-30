@@ -82,3 +82,96 @@ h1 {
 .box9:hover {
     transform: scale(0.9);
 }
+
+.box10 {
+    padding-top: 100px;
+    text-align: center;
+    transition: 1s;
+}
+.box10:hover {
+    transform: scale(0.9);
+}
+.box11 {
+    padding-top: 90px;
+    text-align: center;
+    transition: 1s;
+}
+.box11:hover {
+    transform: scale(0.9);
+}
+.box12 {
+    padding-top: 90px;
+    text-align: center;
+    transition: 1s;
+}
+.box12:hover {
+    transform: scale(0.9);
+}
+.box13 {
+    padding-top: 90px;
+    text-align: center;
+    transition: 1s;
+}
+.box13:hover {
+    transform: scale(0.9);
+}
+.box14 {
+    padding-top: 90px;
+    text-align: center;
+    transition: 1s;
+}
+.box14:hover {
+    transform: scale(0.9);
+}
+.box15 {
+    padding-top: 90px;
+    text-align: center;
+    transition: 1s;
+}
+.box15:hover {
+    transform: scale(0.9);
+}
+.box16 {
+    padding-top: 90px;
+    text-align: center;
+    transition: 1s;
+}
+.box16:hover {
+    transform: scale(0.9);
+}
+.box17 {
+    padding-top: 90px;
+    text-align: center;
+    transition: 1s;
+}
+.box17:hover {
+    transform: scale(0.9);
+}
+.box18 {
+    padding-top: 90px;
+    text-align: center;
+    transition: 1s;
+}
+.box18:hover {
+    transform: scale(0.9);
+}
+.box19 {
+    padding-top: 90px;
+    text-align: center;
+    transition: 1s;
+}
+.box19:hover {
+    transform: scale(0.9);
+}
+.box20 {
+    width:70%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    border:2px solid grey;
+   margin-left: 150px;
+   margin-top: 50px;
+}
+h3 {
+    color:brown;
+}
